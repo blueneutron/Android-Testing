@@ -6,9 +6,9 @@ This sample app consist of two screens:
  - Recipe List Page 
  - Recipe Detail Page 
  
-![Recipe List Page](https://raw.githubusercontent.com/blueneutron/android-testing/main/screenshots/recipe_detail_page.webp)
+![Recipe List Page](https://raw.githubusercontent.com/blueneutron/android-testing/main/screenshots/recipe_list_page.webp)
 
-![Recipe List Page](https://raw.githubusercontent.com/blueneutron/android-testing/main/screenshots/recipe_detail_page.webp)
+![Recipe Detail Page](https://raw.githubusercontent.com/blueneutron/android-testing/main/screenshots/recipe_detail_page.webp)
 
 Test has been divided into two parts:
  
